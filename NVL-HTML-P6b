@@ -29,14 +29,9 @@
     <title>Mejores pelis</title>
   </head>
   <body>
-    <h1> Resultado final: el top 10 del grupo</h1>
-     <p>Las mejores pelis son:</p>
+    <h1> LAs 5 mejores que nos ceriamos de unaa sentada</h1>
+     <p>El top 5 es:</p>
      <ol>
-      <li> 10. Star wars (Todas) <img src="imagenes/caratula 10.jpg" alt="Caratula: Star wars" > </li>
-      <li> 9. El curioso casa de Benjamin Button <img src="imagenes/caratula9.jpg" alt="Caratula:El curioso casa de Benjamin Button"> </li>
-      <li> 8. El rey leon <img src="imagenes/caratula8.jpg" alt="Caratula: El rey leon"> </li>
-      <li> 7. La vida es Bella <img src="imagenes/caratula7.jpg" alt="Caratula:LA vida es Bella"> </li>
-      <li> 6. El señor de los anillos: LA comunidad del anillo <img src="imagenes/caratula6.jpg" alt="Caratula:El señor de los anillos: LA comunidad del anillo"></li>
       <li> 5. El silencio de los corderos <img src="imagenes/caratula5.jpg" alt="El silencio de los corderos "></li>
       <li> 4. Harry potter <img src="imagenes/caratula4.jpg" alt="Caratula:Harry potter y la piedra filosofal"> </li>
       <li> 3. Interstellar <img src="imagenes/caratula3.jpg" alt="Caratula:Interstellar">(Todas)  </li>

@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>ELEMENTOS DE BLOQUE Y EN LINEA</title>
+  </head>
+  <body>
+   <h1> Bloque y linea</h1>
+   <p> Con los elementos h1 y p creo bloques, donde no voy a poder poner ningún elemento al lado de estos elementos solo arriba o abajo </p>
+   <p> Sin embargo, con los <em>elementos en linea </em> voy a poder varios en la <strong> misma linea </strong> porque hace referencia solo a algunas palabras o frases y no ocupan todo el espacio o ancho de la págna web. </p/
+   </body>
+   </html>

@@ -2,7 +2,7 @@
 <html>
   <head>
     <meta charset="utf-8">
-    <title>ELEMENTOS DE BLOQUE Y EN LINEA</title>
+    <title>inicio CSS</title>
     <style>
        h1 {
          color: yellow;
@@ -21,3 +21,14 @@
    </html>
    
    
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Inicio CSS</title>
+  </head>
+  <body>
+     <h1 style="color: orange;background-color: green;border: 1px solid red;">Forma in-line!</h1>
+     <p style="color:purple;">Ya le estoy cogiendo el truco al CSS</p>
+   </body>
+   </html>

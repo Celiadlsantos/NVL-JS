@@ -7,33 +7,33 @@
   <body>
    <h1> Glosario </h1>
    <p> Términos en orden alfabético
-      <a href=”#letra-A”>A</a>
-      <a href=”#letra-B”>B</a>
-      <a href=”#letra-C”>C</a>
-      <a href=”#letra-D”>D</a>
-      <a href=”#letra-E”>E</a>
-      <a href=”#letra-F”>F</a>
-      <a href=”#letra-G”>G</a>
-      <a href=”#letra-H”>H</a>
-      <a href=”#letra-I”>I</a>
-      <a href=”#letra-J”>J</a>
-      <a href=”#letra-K”>K</a>
-      <a href=”#letra-L”>L</a>
-      <a href=”#letra-M”>M</a>
-      <a href=”#letra-N”>N</a>
-      <a href=”#letra-Ñ”>Ñ</a>
-      <a href=”#letra-O”>O</a>
-      <a href=”#letra-P”>P</a>
-      <a href=”#letra-Q”>Q</a>
-      <a href=”#letra-R”>R</a>
-      <a href=”#letra-S”>S</a>
-      <a href=”#letra-T”>T</a>
-      <a href=”#letra-U”>U</a>
-      <a href=”#letra-V”>V</a>
-      <a href=”#letra-W”>W</a>
-      <a href=”#letra-X”>X</a>
-      <a href=”#letra-Y”>Y</a>
-      <a href=”#letra-Z”>Z</a>
+      <a href="#letra-A">A</a>
+      <a href="#letra-B">B</a>
+      <a href="#letra-C">C</a>
+      <a href="#letra-D">D</a>
+      <a href="#letra-E">E</a>
+      <a href="#letra-F">F</a>
+      <a href="#letra-G">G</a>
+      <a href="#letra-H">H</a>
+      <a href="#letra-I">I</a>
+      <a href="#letra-J">J</a>
+      <a href="#letra-K">K</a>
+      <a href="#letra-L">L</a>
+      <a href="#letra-M">M</a>
+      <a href="#letra-N">N</a>
+      <a href="#letra-Ñ">Ñ</a>
+      <a href="#letra-O">O</a>
+      <a href="#letra-P">P</a>
+      <a href="#letra-Q">Q</a>
+      <a href="#letra-R">R</a>
+      <a href="#letra-S">S</a>
+      <a href="#letra-T">T</a>
+      <a href="#letra-U">U</a>
+      <a href="#letra-V">V</a>
+      <a href="#letra-W">W</a>
+      <a href="#letra-X">X</a>
+      <a href="#letra-Y">Y</a>
+      <a href="#letra-Z">Z</a>
      </p>
     
     <a name="letra-A"></a>

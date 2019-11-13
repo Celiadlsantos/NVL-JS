@@ -85,56 +85,80 @@
     
     <a name="letra-H"></a>
     <h9>H</h9>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
-    
+    <p><strong>Hardware:</strong>componentes físicos de una computadora o de una red, a diferencia de los programas (software) o elementos lógicos que los hacen funcionar. </p>
+  
     <a name="letra-I"></a>
     <h10>I</h10>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
+    <p><strong>Icono:</strong>pequeña imagen, normalmente un símbolo, utilizado para representar gráficamente un programa, un archivo o una función en la pantalla del ordenador, para facilitar su localización. (En los primeros años del desarrollo del hipertexto se denominaban botones a los iconos interactivos). </p>
     
     <a name="letra-J"></a>
     <h11>J</h11>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
-    <p><strong> >/strong> </p>
+    <p><strong>Java:</strong>lenguaje de programación de alto nivel orientado a objetos, desarrollado por Sun Microsystems y que corre sobre diversas plataformas. </p>
+    
     <a name="letra-K"></a>
     <h12>K</h12>
+    <p><strong>Kilobyte: </strong>unidad de medida de capacidad de información de mil bytes, aunque actualmente equivale a1024 (dos elevado a la 10) bytes. </p>
     <a name="letra-L"></a>
     <h13>L</h13>  
+      <p><strong>Linux:</strong>versión de libre distribución del sistema operativo UNIX que no tiene código propietario y se distribuye libremente bajo licencia pública GNU. El kernel fue escrito por Linux Torvalds  y otros voluntarios de distintos lugares del mundo. Muchos de los programas que corren sobre Linux son de uso libre. </p>
     <a name="letra-M"></a>
     <h14>M</h14>
+      <p><strong>Mapa:</strong>representación gráfica de la estructura de un hipertexto para la orientación y navegación. </p>
     <a name="letra-N"></a>
     <h15>N</h15>
-    <a name="letra-Ñ"></a>
+      <p><strong>Navegación:</strong>Acción y efecto de leer, explorar, moverse y usar un hipertexto. </p>
+  
+  <a name="letra-Ñ"></a>
     <h16>Ñ</16>
+     
+      
     <a name="letra-O"></a>
     <h17>O</h17>
-    <a name="letra-P"></a>
+      <p><strong>Ontología </strong>vocabulario formalizado de un dominio del conocimiento y que comprende tanto los conceptos como las propiedades que los relacionan y las reglas que rigen el funcionamiento del dominio </p>
+   
+   <a name="letra-P"></a>
     <h18>P</h18>
-    <a name="letra-Q"></a>
+      <p><strong>Portal:</strong>punto de entrada en la Web que ofrece determinados servicios para operar en Internet. </p>
+  
+  <a name="letra-Q"></a>
     <h19>Q</h19>
-    <a name="letra-R"></a>
+      <p><strong> </strong> </p>
+  
+  <a name="letra-R"></a>
     <h20>R</h20>
-    <a name="letra-2"></a>
+      <p><strong>RDF:</strong>Resource Description Framework o Marco de Descripción de Recursos. Es un lenguaje estándar para describir recursos formalmente. </p>
+  
+  <a name="letra-2"></a>
     <h21>S</h21>
-    <a name="letra-T"></a>
+      <p><strong>Servidor:</strong>ordenador o programa que da servicios a otro conocido como cliente. En un sistema de hipertexto, un servidor dará información al navegador. </p>
+   
+   <a name="letra-T"></a>
     <h22>T</h22>
-    <a name="letra-U"></a>
+      <p><strong>Telnet:</strong>Terminal Emulation. Protocolo para establecer conexiones entre terminales remotos. Permite que un usuario desde un ordenador remoto se conecte a otro ordenador en una red y, por medio de comandos, entre en el ordenador remoto como si estuviera directamente conectado a él. Actualmente en desuso. </p>
+ 
+ <a name="letra-U"></a>
     <h23>U</h23>
-    <a name="letra-V"></a>
+      <p><strong>URI:</strong>Universal Resource Identifier. Una cadena algorítmica que se usa para identificar un documento o recurso en la Web. </p>
+  
+  <a name="letra-V"></a>
     <h24>V</h24>
-    <a name="letra-W"></a>
+      <p><strong>VRML:</strong>Virtual Reality Modeling Language. Lenguaje de programación utilizado para hacer presentaciones de realidad virtual y 3D en la WWW. El término "VRML" fue acuñado por Dave Ragget en la 1ª  Conferencia sobre WWW celebrada en Génova en mayo de 1994. Requiere un navegador especial o un plugin. </p>
+  
+  <a name="letra-W"></a>
     <h25>W</h25>
-    <a name="letra-X"></a>
+      <p><strong>Windows:</strong>sistema operativo desarrollado por Microsoft  y basado en ventanas. Es el más popular en entornos PC. Permite el acceso a Internet mediante TCP/IP. </p>
+  
+  <a name="letra-X"></a>
     <h26>X</h26>
-    <a name="letra-Y"></a>
+      <p><strong>Xanadu:</strong>sistema de hipertexto propuesto por Ted Nelson en 1965 para enlazar de forma no secuencial documentos y objetos multimedia. El sistema de Nelson era similar al de la World Wide Web, pero incluía otras capacidades. </p>
+  
+  <a name="letra-Y"></a>
     <h27>Y</h27>
-    <a name="letra-Z"></a>
+      <p><strong>yema: </strong>Núcleo de los huevos de los vertebrados ovíparos; es esferoidal, de color amarillo y está rodeada por la clara. </p>
+  
+  <a name="letra-Z"></a>
     <h28>Z</h28>
+      <p><strong>zalamería:</strong>Demostración exagerada de cariño, simpatía o agradecimiento para conseguir algo</p>
+    </body>
+    </html>
       

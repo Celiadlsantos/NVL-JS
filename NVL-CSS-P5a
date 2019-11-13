@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>Box model</title>
+  </head>
+  <body>
+   <div id="img">
+     <p> Imagen de dos patos </p>
+   </div>
+#img{
+        padding: 32px color:yellow;
+        border: 16px color:orange;
+        margin: 10px color:red;
+       }>
+   </body>
+   </html>
